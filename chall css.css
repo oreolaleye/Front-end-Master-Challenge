@@ -80,3 +80,9 @@ footer{
 .calculator-img{
   margin-left: 220px;
 }
+@media (max-width: 600px) {
+  .supervisor{top:auto; bottom:0; right:auto;}
+  .team-builder{top:0; bottom:auto;}
+  .karma{top:0; bottom:auto;}
+  .calculator{top:0; bottom:auto; left:auto;}
+}
